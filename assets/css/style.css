@@ -1,25 +1,27 @@
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
 
 *{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
 .first-section, .second-section, .third-section{
+    border: none;
     font-family: "Josefin Sans", sans-serif;
-    height: 70px;
-    padding-left: 10px;
-    font-size: 24px;
+    font-size: 18px;
+    height: 65px;
+    margin: 15px;
+    padding: 5px 10px;
+    width: 205px;
 }
 
 .first-section, .third-section{
     background-color: #FFFF00;
-    border: 1px solid #FFFF00;
 }
 
 .second-section{
     background-color: #ED2251;
-    border: 1px solid;
 }
 
 .third-section{
