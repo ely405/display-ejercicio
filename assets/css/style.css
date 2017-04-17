@@ -28,3 +28,25 @@
 .third-section{
     text-transform: uppercase;
 }
+
+.box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7{
+    background-color: #CCCCCC;
+    border: 2px solid #9C9C9C;
+    display: inline-block;
+    height: 50px;
+    margin: 5px 3px;
+    width: 50px;
+}
+
+.contains-three-boxes{
+    background-color: #CCCCCC;
+    border: 2px solid #9C9C9C;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding-left: 2px;
+    width: 185px;
+}
+
+.box-7{
+    display: block;
+}
