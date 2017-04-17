@@ -9,11 +9,12 @@
 .first-section, .second-section, .third-section{
     border: none;
     font-family: "Josefin Sans", sans-serif;
-    font-size: 22px;
+    font-size: 18px;
     display: inline-block;
-    height: 30px;
+    height: 63px;
     margin: 10px 3px;
-    padding: 5px 15px 30px 5px; 
+    padding: 5px;
+    width: 180px;
 }
 
 .first-section, .third-section{
