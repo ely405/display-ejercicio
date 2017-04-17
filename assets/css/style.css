@@ -9,11 +9,11 @@
 .first-section, .second-section, .third-section{
     border: none;
     font-family: "Josefin Sans", sans-serif;
-    font-size: 18px;
-    height: 65px;
-    margin: 15px;
-    padding: 5px 10px;
-    width: 205px;
+    font-size: 22px;
+    display: inline-block;
+    height: 30px;
+    margin: 10px 3px;
+    padding: 5px 15px 30px 5px; 
 }
 
 .first-section, .third-section{
