@@ -1,0 +1,20 @@
+
+.first-section, .second-section, .third-section{
+    font-family: Raleway, sans-serif;
+    height: 70px;
+    padding-left: 10px;
+}
+
+.first-section, .third-section{
+    background-color: #FFFF00;
+    border: 1px solid #FFFF00;
+}
+
+.second-section{
+    background-color: #ED2251;
+    border: 1px solid;
+}
+
+.third-section{
+    text-transform: uppercase;
+}
